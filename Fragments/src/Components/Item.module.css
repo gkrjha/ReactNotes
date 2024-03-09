@@ -1,0 +1,11 @@
+.kg-item:hover{
+  font-size: larger;
+  background-color: black;
+  font-weight: 700;
+  color: blanchedalmond;  
+  transition: 0.4s;
+  
+}
+.button{
+float: right;
+}

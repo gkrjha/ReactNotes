@@ -1,0 +1,9 @@
+.Container{
+  align-self: center;
+  margin: 15px;
+  width: 50%;
+  border-radius: 5px;
+  background-color: rgb(131, 125, 125);
+  /* text-align: center; */
+  margin-top: 20px;
+} 
